@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:g="http://schemas.google.com/pcn/2020">
+  <title>Beaudesert Bulletin News</title>
+  <id>urn:uuid:beaudesert-bulletin-feed-1</id>
+  <updated>2025-02-18T00:00:00Z</updated>
+  <link rel="self" href="https://beaudesertbulletin.com/feed/showcase"/>
+
+  <entry>
+    <g:panel type="RUNDOWN">Top Stories</g:panel>
+    <g:panel_title>Beaudesert Bulletin Headlines</g:panel_title>
+    <title>Beaudesert Bulletin Top Stories</title>
+    <author><name>Beaudesert Bulletin</name></author>
+    <link href="https://beaudesertbulletin.com/"></link>
+    <id>urn:uuid:beaudesert-bulletin-panel-1</id>
+    <published>2025-02-17T23:00:00Z</published>
+    <updated>2025-02-18T00:00:00Z</updated>
+    <g:article_group role="RUNDOWN">
+      <entry>
+        <id>urn:uuid:beaudesert-bulletin-article-1</id>
+        <title>How to win $2025 off your water bill in 2025</title>
+        <link href="https://beaudesertbulletin.com/how-to-win-2025-off-your-water-bill-in-2025/"/>
+        <author><name>By Supplied content</name></author>
+        <g:overline>Community News</g:overline>
+        <media:content url="https://beaudesertbulletin.com/wp-content/uploads/2025/02/Urban-Utilities-is-offering-customers-the-chance-to-win-2025-off-their-water-bill-617x381.jpeg?v=1739757773"></media:content>
+        <description><![CDATA[Urban Utilities is offering customers the chance to win $2025 off their water and sewerage bill in 2025 if they make the switch from paper bills to email or SMS.]]></description>
+      </entry>
+      <entry>
+        <id>urn:uuid:beaudesert-bulletin-article-2</id>
+        <title>Changes</title>
+        <link href="https://beaudesertbulletin.com/changes/"/>
+        <author><name>By Supplied content</name></author>
+        <g:overline>Reflections</g:overline>
+        <media:content url="https://beaudesertbulletin.com/wp-content/uploads/2024/09/reflections-678x381.webp"></media:content>
+        <description><![CDATA[There are some changes with pastoral movements. Pastor Mark and Grace have moved on from Harvest Point and there are interim ministers there.]]></description>
+      </entry>
+      <entry>
+        <id>urn:uuid:beaudesert-bulletin-article-3</id>
+        <title>Charolais Cows &#38; Calves hit $2000 at Beaudesert</title>
+        <link href="https://beaudesertbulletin.com/charolais-cows-calves-hit-2000-at-beaudesert/"/>
+        <author><name>By Supplied content</name></author>
+        <g:overline>Local Markets</g:overline>
+        <media:content url="https://beaudesertbulletin.com/wp-content/uploads/2025/02/20250207_161912.jpeg?v=1739150878"></media:content>
+        <description><![CDATA[Agents Bartholomew &#38; Co reported a dearer market for most descriptions at their Beaudesert Store Sale on Saturday.]]></description>
+      </entry>
+    </g:article_group>
+  </entry>
+</feed>
